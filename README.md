@@ -26,7 +26,7 @@
 ## **⚡ GitHub Stats ⚡**
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=surichakkirala&theme=highcontrast&include_all_commits=false&count_private=true&layout=compact)]
 
-
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surichakkirala&theme=highcontrast&include_all_commits=false&count_private=true&layout=compact)
 <br/>
 
 <hr/>

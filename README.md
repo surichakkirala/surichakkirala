@@ -1,5 +1,5 @@
 <h1 align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=Hi+There!+👋;+I'm+Surendra+Kumar!👋;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=Hi+There!+👋;+I'm+Surendra+Kumar!👋;" alt="Typing SVG"/>
 </h1>
 <h3 align="center">A Enthusiastic Frontend developer from India</h3>
 

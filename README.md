@@ -5,11 +5,10 @@
 
 <br/>
 
-<div align="center">
+
 - 🔭 I’m currently working on **ReactJS**
 - 💬 Ask me about ...Frontend Development
 - 📫 How to reach me: surichakkirala@gmail.com
-</div>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
